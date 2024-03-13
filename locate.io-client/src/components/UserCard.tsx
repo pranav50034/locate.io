@@ -1,4 +1,3 @@
-import React from 'react'
 interface UserCardProps {
    location: { lat: number; long: number };
    name: string;
