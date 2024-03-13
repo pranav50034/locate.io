@@ -3,8 +3,6 @@ import axios from "axios";
 import UserCard from "../components/UserCard";
 import { APIProvider, AdvancedMarker, Map } from "@vis.gl/react-google-maps";
 import { MarkerWithInfowindow } from "../components/InfoWindow";
-import InputComponent from "../components/InputComponent";
-import Button from "../components/Button";
 import Search from "../components/Search";
 interface Coords {
    lat: number;
